@@ -1,4 +1,4 @@
-# Music-Plyer(SpotifyClone)
+# Spotify Clone
 
 Spotify Clone built with HTML, CSS, and JavaScript. This web app allows users to play, pause, seek, and adjust the volume of audio tracks. It also includes features for navigating through a playlist, showing track information, and controlling playback.
 
@@ -29,12 +29,12 @@ Spotify Clone built with HTML, CSS, and JavaScript. This web app allows users to
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/AR-47/Music-Player-SpotifyClone-.git
+    git clone https://github.com/AR-47/SpotifyClone.git
     ```
    
 2. Navigate to the project folder:
     ```bash
-    cd Music-Player-SpotifyClone-
+    cd SpotifyClone
     ```
 
 3. Open the `index.html` file in your browser to view and interact with the music player.
